@@ -1,4 +1,4 @@
-// Store the data link
+// Storing the data link
 var link = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
 
 function markerSize(mag) {
